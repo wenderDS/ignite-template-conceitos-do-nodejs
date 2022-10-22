@@ -11,9 +11,9 @@ Essa será uma aplicação para gerenciar tarefas (em inglês *TODO*). Se
 - Excluir um item *TODO*;
 
 Tudo isso para cada usuário em específico (o `username` será passado pelo header). A seguir veremos com mais detalhes o que e como precisa ser feito 🚀
-
+---
 ### Requisitos
-- [] Deve ser possível criar um usuário
+- [x] Deve ser possível criar um usuário
 - [] Deve ser possível criar um novo item TODO
 - [] Deve ser possível listar todos os itens TODO
 - [] Deve ser possível alterar Titulo e DataFim de um item TODO "existente"
@@ -21,7 +21,7 @@ Tudo isso para cada usuário em específico (o `username` será passado pelo hea
 - [] Deve ser possível excluir um item TODO
 ---
 ### Regras de negócio
-- [] Não deve ser possível criar um usúario com USERNAME "existente"
+- [x] Não deve ser possível criar um usúario com USERNAME "existente"
 - [] Não deve ser possível alterar um item TODO que não exista
 - [] Não deve ser possível marcar como feito um item TODO que não exista
 - [] Não deve ser possível excluir um item TODO que não exista 
