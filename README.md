@@ -14,16 +14,16 @@ Tudo isso para cada usuário em específico (o `username` será passado pelo hea
 ---
 ### Requisitos
 - [x] Deve ser possível criar um usuário
-- [] Deve ser possível criar um novo item TODO
-- [] Deve ser possível listar todos os itens TODO
-- [] Deve ser possível alterar Titulo e DataFim de um item TODO "existente"
-- [] Deve ser possível marcar o item TODO como feito
-- [] Deve ser possível excluir um item TODO
+- [x] Deve ser possível criar um novo item TODO
+- [x] Deve ser possível listar todos os itens TODO
+- [x] Deve ser possível alterar Titulo e DataFim de um item TODO "existente"
+- [x] Deve ser possível marcar o item TODO como feito
+- [x] Deve ser possível excluir um item TODO
 ---
 ### Regras de negócio
 - [x] Não deve ser possível criar um usúario com USERNAME "existente"
-- [] Não deve ser possível alterar um item TODO que não exista
-- [] Não deve ser possível marcar como feito um item TODO que não exista
-- [] Não deve ser possível excluir um item TODO que não exista 
+- [x] Não deve ser possível alterar um item TODO que não exista
+- [x] Não deve ser possível marcar como feito um item TODO que não exista
+- [x] Não deve ser possível excluir um item TODO que não exista 
 
 
